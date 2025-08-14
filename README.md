@@ -1,1 +1,1 @@
-# The code for our work, OpenMamba, will be uploaded upon paper publication
+# The code will be available soon!
