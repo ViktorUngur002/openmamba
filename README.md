@@ -41,7 +41,7 @@ If you find our OpenMamba work useful for your research please use the following
 
 ```BibTeX
 @Article{UngurPopa2025,
-  author = {Ungur, Viktor and Popa, C{\u{a}}lin-Alexandru},
+  author = {Ungur, Viktor and Popa, Calin-Adrian},
   title = {OpenMamba: Introducing State Space Models to Open-Vocabulary Semantic Segmentation},
   journal = {Applied Sciences},
   year = {2025},
