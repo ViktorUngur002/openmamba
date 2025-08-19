@@ -6,9 +6,9 @@ Viktor Ungur, [Călin-Adrian Popa](https://sites.google.com/site/popacalinadrian
 
 Department of Computers and Information Technology, Politehnica University of Timișoara
 
-Publisher: MDPI
-Journal: Applied Sciences
-Special Issue: Application of Machine Learning to Image Classification and Image Segmentation
+Publisher: MDPI <br>
+Journal: Applied Sciences <br>
+Special Issue: Application of Machine Learning to Image Classification and Image Segmentation <br>
 
 (📧 corresponding author)
 
